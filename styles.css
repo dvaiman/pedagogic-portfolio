@@ -1,0 +1,124 @@
+/* ============================================================
+   Pedagogisk portfölj – Daniel Väisänen
+   Navy-färgschema: matchar CV:ns #1a3a5c
+   ============================================================ */
+
+:root {
+  --navy:     #1a3a5c;
+  --navy-lt:  #a8c4d9;
+  --navy-pal: #e8edf3;
+  --gray:     #555555;
+}
+
+/* Navbar */
+.navbar {
+  background-color: var(--navy) !important;
+}
+.navbar-brand,
+.navbar .nav-link {
+  color: white !important;
+}
+.navbar .nav-link:hover {
+  color: var(--navy-lt) !important;
+}
+.navbar .nav-link.active {
+  color: var(--navy-lt) !important;
+  font-weight: 600;
+}
+
+/* Rubriker */
+h1, h2, h3 {
+  color: var(--navy);
+}
+h1 {
+  border-bottom: 2px solid var(--navy);
+  padding-bottom: 0.3em;
+  margin-top: 1.2em;
+}
+h2 {
+  border-bottom: 1px solid var(--navy-lt);
+  padding-bottom: 0.2em;
+  margin-top: 1.4em;
+}
+
+/* Länkar */
+a {
+  color: var(--navy);
+}
+a:hover {
+  color: var(--navy-lt);
+}
+
+/* Profil-hero på startsidan */
+.profil-hero {
+  background-color: var(--navy);
+  color: white;
+  padding: 2.5rem 2rem;
+  border-radius: 6px;
+  margin-bottom: 2rem;
+}
+.profil-hero h1 {
+  color: white;
+  border-bottom: none;
+  font-size: 2rem;
+  margin-top: 0;
+}
+.profil-hero .undertitel {
+  color: var(--navy-lt);
+  font-size: 1.15rem;
+  margin-bottom: 0.8rem;
+}
+.profil-hero .kontakt {
+  color: #c5d8e8;
+  font-size: 0.9rem;
+}
+.profil-hero a {
+  color: var(--navy-lt);
+}
+
+/* Callout-liknande placeholder-boxar */
+.placeholder {
+  background-color: var(--navy-pal);
+  border-left: 4px solid var(--navy-lt);
+  padding: 1rem 1.2rem;
+  border-radius: 0 4px 4px 0;
+  margin: 1rem 0;
+  font-style: italic;
+  color: var(--gray);
+}
+
+/* Tabell-styling */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.93rem;
+}
+th {
+  background-color: var(--navy);
+  color: white;
+  padding: 0.5rem 0.8rem;
+  text-align: left;
+}
+td {
+  padding: 0.45rem 0.8rem;
+  border-bottom: 1px solid #dde4ec;
+}
+tr:nth-child(even) td {
+  background-color: var(--navy-pal);
+}
+
+/* Sidfot */
+.nav-footer {
+  background-color: var(--navy-pal);
+  color: var(--gray);
+  font-size: 0.85rem;
+  border-top: 1px solid var(--navy-lt);
+}
+
+/* TOC */
+#TOC a {
+  color: var(--navy);
+}
+#TOC a:hover {
+  color: var(--navy-lt);
+}

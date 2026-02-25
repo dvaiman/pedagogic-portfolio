@@ -1,0 +1,64 @@
+---
+title: "Pedagogiska ställningstaganden"
+---
+
+> *Redogör personligt för dina pedagogiska utgångspunkter — din grundsyn och dina erfarenheter
+> med ställningstaganden avseende relationen lärande, undervisning och ämnesinnehåll.*
+
+## Min pedagogiska grundsyn
+
+::: {.placeholder}
+**[Fyll i]** Beskriv din övergripande syn på undervisning och lärande. Vad driver dig som lärare?
+Vad tror du krävs för att studenter ska lära sig på djupet? Hur ser du på din roll i förhållande
+till studenternas lärande?
+
+*Exempel på vad som kan inkluderas: konstruktivistisk syn på lärande, vikten av att koppla
+teori till praktik, studentcentrering, vikten av återkoppling, etc.*
+:::
+
+## Relationen lärande, undervisning och ämnesinnehåll
+
+::: {.placeholder}
+**[Fyll i]** Hur ser du på sambandet mellan hur du undervisar, vad du undervisar och hur
+studenter lär sig? Hur påverkar ämnet (statistik, kvantitativa metoder, R-programmering)
+dina val av undervisningsformer?
+
+*Tänk på: Vad är svårt med att lära sig statistik/dataanalys? Hur möter du det?
+Skillnaden mellan att memorera och förstå. Programmering som ett nytt sätt att tänka.*
+:::
+
+## Egna erfarenheter och didaktiska val
+
+::: {.placeholder}
+**[Fyll i]** Ge exempel på konkreta didaktiska val du gjort i dina kurser och varför.
+
+**Ledande frågor:**
+
+- Varför har du valt att utforma *R: från databearbetning till visualisering* (avancerad nivå,
+  4,5 hp) på det sätt du gjort? Vad prioriterar du och varför?
+- Hur arbetar du i *Forskningsmetodik* (kandidatnivå, 7,5 hp) med att få studenter som inte
+  valt statistik av eget intresse att ändå engagera sig?
+- Vad har du lärt dig av att undervisa *Fördjupad kvantitativ analys* (2024–2025) som
+  förändrat hur du tänker om undervisning?
+- Hur handleder du dina doktorander och vad styr dina val i det arbetet?
+:::
+
+## Hänvisningar till regelverk och forskning
+
+::: {.placeholder}
+**[Fyll i]** Koppla dina ställningstaganden till:
+
+**Nationella regelverk:**
+- Högskolelagen (SFS 1992:1434), särskilt 1 kap. 9 § om vetenskaplig grund och beprövad erfarenhet
+- Högskoleförordningen (SFS 1993:100)
+- GIH:s pedagogiska idé / utbildningsplan *(länka om tillgänglig)*
+
+**Högskolepedagogisk forskning:**
+- Biggs, J. & Tang, C. (2011). *Teaching for Quality Learning at University.*
+  (Konstruktiv länkning)
+- Marton, F. & Säljö, R. (1976). On qualitative differences in learning. (Djup- vs. ytinlärning)
+- *[Lägg till referenser som är relevanta för ditt eget arbete]*
+
+**Se även:** [Pedagogiskt CV](dokumentation.qmd) och [Bilagor](bilagor.qmd) för
+dokumentation av utbildning och erfarenhet.
+:::

@@ -1,0 +1,57 @@
+---
+title: "Bilagor"
+---
+
+> *Tydliggör andras värderingar av dina pedagogiska insatser — kursvärderingar,
+> kursanalyser, intyg och övrig dokumentation.*
+
+## CV
+
+- 📄 [Akademisk CV (PDF)](../script/cv_akademisk.pdf)
+- 📄 [Generell CV (PDF)](../script/cv_generell.pdf)
+
+---
+
+## Kursvärderingar
+
+::: {.placeholder}
+**[Lägg till]** Sammanfattningar eller utdrag ur kursvärderingar från dina kurser.
+
+Förslag på structure per kurs:
+
+**R: från databearbetning till visualisering (avancerad, 4,5 hp), GIH, 2025**
+- Svarsfrekvens: *[X %]*
+- Övergripande omdöme: *[X/5 eller motsvarande]*
+- Urval studentkommentarer: *[citat]*
+- Kursansvarigs kommentar / kursanalys: *[text]*
+:::
+
+---
+
+## Kursanalyser
+
+::: {.placeholder}
+**[Lägg till]** Formella kursanalyser (om de finns som separata dokument).
+Alternativt: beskriv kortfattat vad kursvärderingarna ledde till för förändringar.
+:::
+
+---
+
+## Intyg
+
+::: {.placeholder}
+**[Lägg till]** Relevanta intyg, t.ex.:
+
+- Intyg på högskolepedagogisk utbildning (grundkurs + fortsättningskurs)
+- Intyg på handledarkompetens
+- Annan dokumentation från GIH eller annan institution
+:::
+
+---
+
+## Övrigt
+
+::: {.placeholder}
+**[Lägg till]** Eventuell ytterligare dokumentation som stöder din pedagogiska meritering,
+t.ex. exempeluppgifter, kursplaner du utformat, undervisningsmaterial.
+:::

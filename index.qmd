@@ -1,0 +1,48 @@
+---
+title: ""
+---
+
+::: {.profil-hero}
+# Daniel Väisänen
+
+::: {.undertitel}
+Epidemiolog · Postdoktoral forskare · Gymnasitk- och idrottshögskolan (GIH)
+:::
+
+::: {.kontakt}
+📧 d.vaisanen\@gmail.com &nbsp;·&nbsp;
+📱 +46 704 067 484 &nbsp;·&nbsp;
+[github.com/dvaiman](https://github.com/dvaiman) &nbsp;·&nbsp;
+[ORCID 0000-0002-0958-0094](https://orcid.org/0000-0002-0958-0094)
+:::
+:::
+
+## Om portföljen
+
+Den här pedagogiska portföljen är upprättad i enlighet med GIH:s riktlinjer för pedagogisk
+meritering. Den innehåller mina pedagogiska ställningstaganden, konkreta exempel på pedagogisk
+skicklighet samt dokumentation av undervisningserfarenhet och uppdrag.
+
+Portföljen är strukturerad enligt GIH:s mall och innehåller fyra huvuddelar:
+
+| Del | Innehåll |
+|---|---|
+| [Pedagogiska ställningstaganden](stallningstaganden.qmd) | Min grundsyn på lärande, undervisning och ämnesinnehåll |
+| [Kvalitativ redogörelse](kvalitativ.qmd) | Konkreta exempel på pedagogisk skicklighet i praktiken |
+| [Pedagogiskt CV](dokumentation.qmd) | Samlad dokumentation: utbildning, erfarenhet, uppdrag |
+| [Bilagor](bilagor.qmd) | Kursvärderingar, intyg och övrig dokumentation |
+
+## Bakgrund
+
+Jag är postdoktoral forskare vid Gymnastic- och idrottshögskolan (GIH) i Stockholm, med
+doktorsexamen i idrottsvetenskap (2023). Min forskning rör folkhälsoepidemiologi med fokus
+på arbetsrelaterad hälsa, kondition och kardiovaskulär sjukdom, med metoder som registerdata,
+propensity score-matchning och maskininlärning.
+
+Vid sidan av forskningen undervisar jag i kvantitativa metoder och statistik på kandidat- och
+avancerad nivå, och handleder doktorander. Jag är också kursansvarig för en kurs i R-programmering.
+
+## CV
+
+- 📄 [Akademisk CV (PDF)](../script/cv_akademisk.pdf)
+- 📄 [Generell CV (PDF)](../script/cv_generell.pdf)

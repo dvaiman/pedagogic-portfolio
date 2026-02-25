@@ -1,0 +1,65 @@
+---
+title: "Kvalitativ redogörelse"
+---
+
+> *Ge konkreta exempel på din pedagogiska skicklighet utifrån den egna ämnesinriktningen
+> och praktiken, illustrerat med hänvisningar till litteratur och bilagor.*
+
+## Kursdesign och konstruktiv länkning
+
+::: {.placeholder}
+**[Fyll i]** Beskriv hur du designar en kurs med utgångspunkt i konstruktiv länkning —
+dvs. att lärandemål, undervisningsaktiviteter och examination hänger samman.
+
+**Ledande frågor:**
+
+- Ta ett konkret exempel från en av dina kurser (t.ex. R-kursen eller Forskningsmetodik).
+  Vad är lärandemålen? Hur är examinationen utformad? Hur speglar undervisningsformerna
+  dessa mål?
+- Hur säkerställer du att studenter som klarar kursen verkligen har uppnått målen —
+  och inte bara klarat provet?
+- Har du förändrat kursdesign baserat på kursvärderingar eller egna observationer?
+  Beskriv ett sådant exempel.
+
+*Relevanta begrepp: konstruktiv länkning (Biggs), bedömning för lärande vs. av lärande,
+formativ och summativ bedömning.*
+:::
+
+## Interaktivt och studentcentrerat lärande
+
+::: {.placeholder}
+**[Fyll i]** Beskriv hur du arbetar med att aktivera studenter och skapa ett lärande
+som utgår från deras förståelse och erfarenheter.
+
+**Ledande frågor:**
+
+- Hur arbetar du med praktiska moment i statistik- och R-undervisning?
+  (t.ex. egna dataset, live-kodning, problemlösning i grupp)
+- Hur kopplar du teorin (statistisk metod) till praktiken (riktiga forskningsfrågor
+  och data från ditt eget fält — folkhälsa, arbetsvetenskap)?
+- Hur ger du återkoppling som driver lärande framåt snarare än att bara betygsätta?
+- Hur tänker du kring handledning av doktorander kontra kursundervisning —
+  vad är lika, vad är olika?
+
+*Hållbar lärandemiljö: trygghet att misslyckas, normaliseringen av "felet är en del av
+kodningen", öppenhet med egna misstag som lärare.*
+:::
+
+## Mångfald, jämställdhet, tillgänglighet och likabehandling
+
+::: {.placeholder}
+**[Fyll i]** Beskriv hur du arbetar för ett inkluderande klassrum där alla studenter
+ges likvärdiga förutsättningar att lära sig.
+
+**Ledande frågor:**
+
+- Statistikångest är vanligt — hur möter du studenter som är rädda för siffror och kod?
+- Hur säkerställer du att undervisningsmaterial är tillgängligt för alla?
+  (t.ex. tydlig struktur, olika typer av förklaringar, tempo)
+- R-programmering kan upplevas som en hög tröskel — hur sänker du den?
+- Hur tänker du kring studenters olika förkunskaper och bakgrunder i en kurs
+  om kvantitativ metod?
+- Har du erfarenheter av att anpassa undervisning utifrån studenters specifika behov?
+
+*Koppla gärna till GIH:s likabehandlingsplan och Diskrimineringslagen (2008:567).*
+:::

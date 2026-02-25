@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Daniel Väisänen – Pedagogisk portfölj"
+  navbar:
+    background: "#1a3a5c"
+    foreground: "white"
+    left:
+      - text: "Om mig"
+        href: index.qmd
+      - text: "Pedagogiska ställningstaganden"
+        href: stallningstaganden.qmd
+      - text: "Kvalitativ redogörelse"
+        href: kvalitativ.qmd
+      - text: "Pedagogiskt CV"
+        href: dokumentation.qmd
+      - text: "Bilagor"
+        href: bilagor.qmd
+  page-footer:
+    left: "Daniel Väisänen · Gymnasitk- och idrottshögskolan (GIH)"
+    right: "[ORCID 0000-0002-0958-0094](https://orcid.org/0000-0002-0958-0094)"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    lang: sv
+    toc: true
+    toc-title: "På denna sida"
+    toc-depth: 3
+    smooth-scroll: true

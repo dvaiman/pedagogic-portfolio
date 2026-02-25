@@ -1,0 +1,106 @@
+---
+title: "Bevisande dokumentation – Pedagogiskt CV"
+---
+
+> *Samlad dokumentation av pedagogisk utbildning, undervisningserfarenhet,
+> handledning, uppdrag och övriga pedagogiska meriter.*
+
+## Pedagogisk utbildning och fortbildning
+
+### Högskolepedagogisk utbildning
+
+| Kurs | Omfattning | Status |
+|---|---|---|
+| Högskolepedagogisk grundkurs | 7,5 hp | Avklarad |
+| Högskolepedagogisk fortsättningskurs | 7,5 hp | Pågående |
+
+### Annan pedagogisk utbildning
+
+::: {.placeholder}
+**[Fyll i om tillämpligt]** Annan pedagogisk utbildning, t.ex.:
+
+- Handledarutbildning för doktorander
+- Ledarskapsutbildning
+- Kurser i pedagogik, didaktik, kommunikation
+:::
+
+---
+
+## Undervisningserfarenhet
+
+### Kursansvar
+
+| Period | Kurs | Institution | Nivå | Hp | Roll |
+|---|---|---|---|---|---|
+| 2026– | Forskningsmetodik | GIH | Kandidatnivå | 7,5 | Kursansvar + undervisning i kvantitativ metod |
+| 2025– | R: från databearbetning till visualisering | GIH | Avancerad nivå | 4,5 | Kursansvar, huvudlärare |
+
+### Övrig undervisning
+
+| Period | Kurs / Moment | Institution | Nivå | Roll |
+|---|---|---|---|---|
+| 2024–2025 | Fördjupad kvantitativ analys | GIH | Avancerad nivå | Undervisning |
+| 2018–2019 | Analytical statistics for sports scientists | GIH | Avancerad nivå | Undervisning |
+| 2018 | Submaximal cykeltest (Ekblom-Bak- och Åstrandtestet) | Försvarshälsan Skaraborgs Regemente | — | Undervisning |
+
+---
+
+## Handledning
+
+### Doktorandhandledning
+
+- Handledning av 2 doktorander, GIH, 2024–pågående
+
+### Handledning av examensarbeten
+
+::: {.placeholder}
+**[Fyll i]** Ange specifika studentarbeten du handlett på olika nivåer, t.ex.:
+
+- Kandidatexamensarbeten (antal, år, ämne)
+- Masterexamensarbeten (antal, år, ämne)
+- Annan handledning
+:::
+
+---
+
+## Pedagogiskt utvecklingsarbete och pedagogiska uppdrag
+
+| Uppdrag | Institution | Period |
+|---|---|---|
+| Kursansvar, Forskningsmetodik (kandidatnivå, 7,5 hp) | GIH | 2026– |
+| Kursansvar, R: från databearbetning till visualisering (avancerad, 4,5 hp) | GIH | 2025– |
+| Lärarrepresentant i disciplinnämnden | GIH | 2026– |
+| AI-expert och ledamot i AI-gruppen | GIH | 2026– |
+
+::: {.placeholder}
+**[Fyll i om tillämpligt]** Specifika pedagogiska utvecklingsuppdrag, t.ex.:
+
+- Deltagit i revidering av kursplan eller utbildningsplan
+- Introducerat nya undervisningsformer eller examinationsformer
+- Pedagogiskt projekt eller rapport
+:::
+
+---
+
+## Utbildningsplanering och utbildningsadministration
+
+::: {.placeholder}
+**[Fyll i om tillämpligt]** T.ex.:
+
+- Programansvar
+- Examinatorsansvar (utöver kursansvar ovan)
+- Deltagit i antagningskommitté eller urvalsarbete
+:::
+
+---
+
+## Övriga pedagogiska meriter
+
+::: {.placeholder}
+**[Fyll i om tillämpligt]** T.ex.:
+
+- Deltagande i pedagogiska konferenser (namn, år)
+- Framställning av läromedel eller undervisningsmaterial
+- Pedagogiska utmärkelser eller nomineringar
+- Ideellt ledarskap med pedagogisk relevans (t.ex. föreningsliv, mentorskap)
+:::
