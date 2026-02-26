@@ -4,181 +4,249 @@
     "href": "bilagor.html",
     "title": "Bilagor",
     "section": "",
-    "text": "Tydliggör andras värderingar av dina pedagogiska insatser — kursvärderingar, kursanalyser, intyg och övrig dokumentation."
+    "text": "Tydliggör andras värderingar av dina pedagogiska insatser — kursvärderingar, kursanalyser, intyg och övrig dokumentation.",
+    "crumbs": [
+      "Bilagor"
+    ]
   },
   {
     "objectID": "bilagor.html#cv",
     "href": "bilagor.html#cv",
     "title": "Bilagor",
     "section": "CV",
-    "text": "CV\n\n📄 Akademisk CV (PDF)\n📄 Generell CV (PDF)"
+    "text": "CV\n\n📄 Akademisk CV (PDF)\n📄 Generell CV (PDF)",
+    "crumbs": [
+      "Bilagor"
+    ]
   },
   {
     "objectID": "bilagor.html#kursvärderingar",
     "href": "bilagor.html#kursvärderingar",
     "title": "Bilagor",
     "section": "Kursvärderingar",
-    "text": "Kursvärderingar\n\n[Lägg till] Sammanfattningar eller utdrag ur kursvärderingar från dina kurser.\nFörslag på structure per kurs:\nR: från databearbetning till visualisering (avancerad, 4,5 hp), GIH, 2025 - Svarsfrekvens: [X %] - Övergripande omdöme: [X/5 eller motsvarande] - Urval studentkommentarer: [citat] - Kursansvarigs kommentar / kursanalys: [text]"
+    "text": "Kursvärderingar\n\n[Lägg till] Sammanfattningar eller utdrag ur kursvärderingar från dina kurser.\nFörslag på structure per kurs:\nR: från databearbetning till visualisering (avancerad, 4,5 hp), GIH, 2025 - Svarsfrekvens: [X %] - Övergripande omdöme: [X/5 eller motsvarande] - Urval studentkommentarer: [citat] - Kursansvarigs kommentar / kursanalys: [text]",
+    "crumbs": [
+      "Bilagor"
+    ]
   },
   {
     "objectID": "bilagor.html#kursanalyser",
     "href": "bilagor.html#kursanalyser",
     "title": "Bilagor",
     "section": "Kursanalyser",
-    "text": "Kursanalyser\n\n[Lägg till] Formella kursanalyser (om de finns som separata dokument). Alternativt: beskriv kortfattat vad kursvärderingarna ledde till för förändringar."
+    "text": "Kursanalyser\n\n[Lägg till] Formella kursanalyser (om de finns som separata dokument). Alternativt: beskriv kortfattat vad kursvärderingarna ledde till för förändringar.",
+    "crumbs": [
+      "Bilagor"
+    ]
   },
   {
     "objectID": "bilagor.html#intyg",
     "href": "bilagor.html#intyg",
     "title": "Bilagor",
     "section": "Intyg",
-    "text": "Intyg\n\n[Lägg till] Relevanta intyg, t.ex.:\n\nIntyg på högskolepedagogisk utbildning (grundkurs + fortsättningskurs)\nIntyg på handledarkompetens\nAnnan dokumentation från GIH eller annan institution"
+    "text": "Intyg\n\n[Lägg till] Relevanta intyg, t.ex.:\n\nIntyg på högskolepedagogisk utbildning (grundkurs + fortsättningskurs)\nIntyg på handledarkompetens\nAnnan dokumentation från GIH eller annan institution",
+    "crumbs": [
+      "Bilagor"
+    ]
   },
   {
     "objectID": "bilagor.html#övrigt",
     "href": "bilagor.html#övrigt",
     "title": "Bilagor",
     "section": "Övrigt",
-    "text": "Övrigt\n\n[Lägg till] Eventuell ytterligare dokumentation som stöder din pedagogiska meritering, t.ex. exempeluppgifter, kursplaner du utformat, undervisningsmaterial."
+    "text": "Övrigt\n\n[Lägg till] Eventuell ytterligare dokumentation som stöder din pedagogiska meritering, t.ex. exempeluppgifter, kursplaner du utformat, undervisningsmaterial.",
+    "crumbs": [
+      "Bilagor"
+    ]
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Pedagogisk portfölj",
     "section": "",
-    "text": "Epidemiolog · Postdoktoral forskare\n\n\n&lt;a href=\"https://github.com/dvaiman\" title=\"GitHub\" aria-label=\"GitHub\"&gt;\n  &lt;i class=\"bi bi-github\"&gt;&lt;/i&gt;\n&lt;/a&gt;\n&lt;a href=\"https://orcid.org/0000-0002-0958-0094\" title=\"ORCID\" aria-label=\"ORCID\"&gt;\n  &lt;svg class=\"orcid-svg\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\"&gt;\n    &lt;path fill=\"#A6CE39\" d=\"M128 0C57.3 0 0 57.3 0 128s57.3 128 128 128 128-57.3 128-128S198.7 0 128 0z\"/&gt;\n    &lt;path fill=\"#fff\" d=\"M86.3 186.2H70.9V79.1h15.4v107.1zm-7.7-119.8c-5.5 0-9.9-4.5-9.9-9.9 0-5.5 4.5-9.9 9.9-9.9 5.5 0 9.9 4.5 9.9 9.9 0 5.5-4.4 9.9-9.9 9.9zm73.2 119.8h-15.4v-52c0-12.4-.2-28.4-17.3-28.4-17.3 0-20 13.5-20 27.4v53h-15.4V111.2h14.8v14.6h.2c2.1-3.9 7.1-8 14.6-8 15.6 0 18.5 10.3 18.5 23.6v45h.1z\"/&gt;\n  &lt;/svg&gt;\n&lt;/a&gt;"
-  },
-  {
-    "objectID": "index.html#om-portföljen",
-    "href": "index.html#om-portföljen",
-    "title": "Pedagogisk portfölj",
-    "section": "Om portföljen",
-    "text": "Om portföljen\nDen här pedagogiska portföljen är upprättad i enlighet med riktlinjer för pedagogisk meritering och innehåller fyra delar:\n\n\n\nDel\nInnehåll\n\n\n\n\nPedagogiska ställningstaganden\nMin grundsyn på lärande, undervisning och ämnesinnehåll\n\n\nKvalitativ redogörelse\nKonkreta exempel på pedagogisk skicklighet i praktiken\n\n\nPedagogiskt CV\nSamlad dokumentation: utbildning, erfarenhet, uppdrag\n\n\nBilagor\nKursvärderingar, intyg och övrig dokumentation"
+    "text": "Epidemiolog · Postdoktoral forskare",
+    "crumbs": [
+      "Om mig"
+    ]
   },
   {
     "objectID": "index.html#bakgrund",
     "href": "index.html#bakgrund",
     "title": "Pedagogisk portfölj",
     "section": "Bakgrund",
-    "text": "Bakgrund\nJag är postdoktoral forskare i Stockholm, med doktorsexamen i idrottsvetenskap (2023). Min forskning rör folkhälsoepidemiologi med fokus på arbetsrelaterad hälsa, kondition och kardiovaskulär sjukdom, och har arbetat med stora dataset som antingen har många individer (registerdata) eller har många datapunkter över tid (sensordata). Jag har använt metoder såsom avancerad statistik, causal-inference och maskininlärning.\nVid sidan av forskningen undervisar jag i kodning, kvantitativa metoder och statistik på kandidat- och avancerad nivå, och handleder doktorander samt studenter. Jag är kursansvarig för en kurs i forskningsmetodik och en i R-programmering."
+    "text": "Bakgrund\nJag är postdoktoral forskare i Stockholm, med doktorsexamen i idrottsvetenskap (2023). Min forskning rör folkhälsoepidemiologi med fokus på arbetsrelaterad hälsa, kondition och kardiovaskulär sjukdom, och har arbetat med stora dataset som antingen har många individer (registerdata) eller har många datapunkter över tid (sensordata). Jag har använt metoder såsom avancerad statistik, causal-inference och maskininlärning.\nVid sidan av forskningen undervisar jag i kodning, kvantitativa metoder och statistik på kandidat- och avancerad nivå, och handleder doktorander samt studenter. Jag är kursansvarig för en kurs i forskningsmetodik och en i R-programmering.",
+    "crumbs": [
+      "Om mig"
+    ]
   },
   {
     "objectID": "index.html#cv",
     "href": "index.html#cv",
     "title": "Pedagogisk portfölj",
     "section": "CV",
-    "text": "CV\n\n📄 Akademisk CV (PDF)\n📄 Generell CV (PDF)"
+    "text": "CV\n\n📄 Akademisk CV (PDF)\n📄 Generell CV (PDF)",
+    "crumbs": [
+      "Om mig"
+    ]
   },
   {
     "objectID": "stallningstaganden.html",
     "href": "stallningstaganden.html",
     "title": "Pedagogiska ställningstaganden",
     "section": "",
-    "text": "Redogör personligt för dina pedagogiska utgångspunkter — din grundsyn och dina erfarenheter med ställningstaganden avseende relationen lärande, undervisning och ämnesinnehåll."
+    "text": "Redogör personligt för dina pedagogiska utgångspunkter — din grundsyn och dina erfarenheter med ställningstaganden avseende relationen lärande, undervisning och ämnesinnehåll.",
+    "crumbs": [
+      "Ställningstaganden"
+    ]
   },
   {
     "objectID": "stallningstaganden.html#min-pedagogiska-grundsyn",
     "href": "stallningstaganden.html#min-pedagogiska-grundsyn",
     "title": "Pedagogiska ställningstaganden",
     "section": "Min pedagogiska grundsyn",
-    "text": "Min pedagogiska grundsyn\n\n[Fyll i] Beskriv din övergripande syn på undervisning och lärande. Vad driver dig som lärare? Vad tror du krävs för att studenter ska lära sig på djupet? Hur ser du på din roll i förhållande till studenternas lärande?\nExempel på vad som kan inkluderas: konstruktivistisk syn på lärande, vikten av att koppla teori till praktik, studentcentrering, vikten av återkoppling, etc."
+    "text": "Min pedagogiska grundsyn\n\n[Fyll i] Beskriv din övergripande syn på undervisning och lärande. Vad driver dig som lärare? Vad tror du krävs för att studenter ska lära sig på djupet? Hur ser du på din roll i förhållande till studenternas lärande?\nExempel på vad som kan inkluderas: konstruktivistisk syn på lärande, vikten av att koppla teori till praktik, studentcentrering, vikten av återkoppling, etc.",
+    "crumbs": [
+      "Ställningstaganden"
+    ]
   },
   {
     "objectID": "stallningstaganden.html#relationen-lärande-undervisning-och-ämnesinnehåll",
     "href": "stallningstaganden.html#relationen-lärande-undervisning-och-ämnesinnehåll",
     "title": "Pedagogiska ställningstaganden",
     "section": "Relationen lärande, undervisning och ämnesinnehåll",
-    "text": "Relationen lärande, undervisning och ämnesinnehåll\n\n[Fyll i] Hur ser du på sambandet mellan hur du undervisar, vad du undervisar och hur studenter lär sig? Hur påverkar ämnet (statistik, kvantitativa metoder, R-programmering) dina val av undervisningsformer?\nTänk på: Vad är svårt med att lära sig statistik/dataanalys? Hur möter du det? Skillnaden mellan att memorera och förstå. Programmering som ett nytt sätt att tänka."
+    "text": "Relationen lärande, undervisning och ämnesinnehåll\n\n[Fyll i] Hur ser du på sambandet mellan hur du undervisar, vad du undervisar och hur studenter lär sig? Hur påverkar ämnet (statistik, kvantitativa metoder, R-programmering) dina val av undervisningsformer?\nTänk på: Vad är svårt med att lära sig statistik/dataanalys? Hur möter du det? Skillnaden mellan att memorera och förstå. Programmering som ett nytt sätt att tänka.",
+    "crumbs": [
+      "Ställningstaganden"
+    ]
   },
   {
     "objectID": "stallningstaganden.html#egna-erfarenheter-och-didaktiska-val",
     "href": "stallningstaganden.html#egna-erfarenheter-och-didaktiska-val",
     "title": "Pedagogiska ställningstaganden",
     "section": "Egna erfarenheter och didaktiska val",
-    "text": "Egna erfarenheter och didaktiska val\n\n[Fyll i] Ge exempel på konkreta didaktiska val du gjort i dina kurser och varför.\nLedande frågor:\n\nVarför har du valt att utforma R: från databearbetning till visualisering (avancerad nivå, 4,5 hp) på det sätt du gjort? Vad prioriterar du och varför?\nHur arbetar du i Forskningsmetodik (kandidatnivå, 7,5 hp) med att få studenter som inte valt statistik av eget intresse att ändå engagera sig?\nVad har du lärt dig av att undervisa Fördjupad kvantitativ analys (2024–2025) som förändrat hur du tänker om undervisning?\nHur handleder du dina doktorander och vad styr dina val i det arbetet?"
+    "text": "Egna erfarenheter och didaktiska val\n\n[Fyll i] Ge exempel på konkreta didaktiska val du gjort i dina kurser och varför.\nLedande frågor:\n\nVarför har du valt att utforma R: från databearbetning till visualisering (avancerad nivå, 4,5 hp) på det sätt du gjort? Vad prioriterar du och varför?\nHur arbetar du i Forskningsmetodik (kandidatnivå, 7,5 hp) med att få studenter som inte valt statistik av eget intresse att ändå engagera sig?\nVad har du lärt dig av att undervisa Fördjupad kvantitativ analys (2024–2025) som förändrat hur du tänker om undervisning?\nHur handleder du dina doktorander och vad styr dina val i det arbetet?",
+    "crumbs": [
+      "Ställningstaganden"
+    ]
   },
   {
     "objectID": "stallningstaganden.html#hänvisningar-till-regelverk-och-forskning",
     "href": "stallningstaganden.html#hänvisningar-till-regelverk-och-forskning",
     "title": "Pedagogiska ställningstaganden",
     "section": "Hänvisningar till regelverk och forskning",
-    "text": "Hänvisningar till regelverk och forskning\n\n[Fyll i] Koppla dina ställningstaganden till:\nNationella regelverk: - Högskolelagen (SFS 1992:1434), särskilt 1 kap. 9 § om vetenskaplig grund och beprövad erfarenhet - Högskoleförordningen (SFS 1993:100) - GIH:s pedagogiska idé / utbildningsplan (länka om tillgänglig)\nHögskolepedagogisk forskning: - Biggs, J. & Tang, C. (2011). Teaching for Quality Learning at University. (Konstruktiv länkning) - Marton, F. & Säljö, R. (1976). On qualitative differences in learning. (Djup- vs. ytinlärning) - [Lägg till referenser som är relevanta för ditt eget arbete]\nSe även: Pedagogiskt CV och Bilagor för dokumentation av utbildning och erfarenhet."
+    "text": "Hänvisningar till regelverk och forskning\n\n[Fyll i] Koppla dina ställningstaganden till:\nNationella regelverk: - Högskolelagen (SFS 1992:1434), särskilt 1 kap. 9 § om vetenskaplig grund och beprövad erfarenhet - Högskoleförordningen (SFS 1993:100) - GIH:s pedagogiska idé / utbildningsplan (länka om tillgänglig)\nHögskolepedagogisk forskning: - Biggs, J. & Tang, C. (2011). Teaching for Quality Learning at University. (Konstruktiv länkning) - Marton, F. & Säljö, R. (1976). On qualitative differences in learning. (Djup- vs. ytinlärning) - [Lägg till referenser som är relevanta för ditt eget arbete]\nSe även: Pedagogiskt CV och Bilagor för dokumentation av utbildning och erfarenhet.",
+    "crumbs": [
+      "Ställningstaganden"
+    ]
   },
   {
     "objectID": "kvalitativ.html",
     "href": "kvalitativ.html",
     "title": "Kvalitativ redogörelse",
     "section": "",
-    "text": "Ge konkreta exempel på din pedagogiska skicklighet utifrån den egna ämnesinriktningen och praktiken, illustrerat med hänvisningar till litteratur och bilagor."
+    "text": "Ge konkreta exempel på din pedagogiska skicklighet utifrån den egna ämnesinriktningen och praktiken, illustrerat med hänvisningar till litteratur och bilagor.",
+    "crumbs": [
+      "Kvalitativ redogörelse"
+    ]
   },
   {
     "objectID": "kvalitativ.html#kursdesign-och-konstruktiv-länkning",
     "href": "kvalitativ.html#kursdesign-och-konstruktiv-länkning",
     "title": "Kvalitativ redogörelse",
     "section": "Kursdesign och konstruktiv länkning",
-    "text": "Kursdesign och konstruktiv länkning\n\n[Fyll i] Beskriv hur du designar en kurs med utgångspunkt i konstruktiv länkning — dvs. att lärandemål, undervisningsaktiviteter och examination hänger samman.\nLedande frågor:\n\nTa ett konkret exempel från en av dina kurser (t.ex. R-kursen eller Forskningsmetodik). Vad är lärandemålen? Hur är examinationen utformad? Hur speglar undervisningsformerna dessa mål?\nHur säkerställer du att studenter som klarar kursen verkligen har uppnått målen — och inte bara klarat provet?\nHar du förändrat kursdesign baserat på kursvärderingar eller egna observationer? Beskriv ett sådant exempel.\n\nRelevanta begrepp: konstruktiv länkning (Biggs), bedömning för lärande vs. av lärande, formativ och summativ bedömning."
+    "text": "Kursdesign och konstruktiv länkning\n\n[Fyll i] Beskriv hur du designar en kurs med utgångspunkt i konstruktiv länkning — dvs. att lärandemål, undervisningsaktiviteter och examination hänger samman.\nLedande frågor:\n\nTa ett konkret exempel från en av dina kurser (t.ex. R-kursen eller Forskningsmetodik). Vad är lärandemålen? Hur är examinationen utformad? Hur speglar undervisningsformerna dessa mål?\nHur säkerställer du att studenter som klarar kursen verkligen har uppnått målen — och inte bara klarat provet?\nHar du förändrat kursdesign baserat på kursvärderingar eller egna observationer? Beskriv ett sådant exempel.\n\nRelevanta begrepp: konstruktiv länkning (Biggs), bedömning för lärande vs. av lärande, formativ och summativ bedömning.",
+    "crumbs": [
+      "Kvalitativ redogörelse"
+    ]
   },
   {
     "objectID": "kvalitativ.html#interaktivt-och-studentcentrerat-lärande",
     "href": "kvalitativ.html#interaktivt-och-studentcentrerat-lärande",
     "title": "Kvalitativ redogörelse",
     "section": "Interaktivt och studentcentrerat lärande",
-    "text": "Interaktivt och studentcentrerat lärande\n\n[Fyll i] Beskriv hur du arbetar med att aktivera studenter och skapa ett lärande som utgår från deras förståelse och erfarenheter.\nLedande frågor:\n\nHur arbetar du med praktiska moment i statistik- och R-undervisning? (t.ex. egna dataset, live-kodning, problemlösning i grupp)\nHur kopplar du teorin (statistisk metod) till praktiken (riktiga forskningsfrågor och data från ditt eget fält — folkhälsa, arbetsvetenskap)?\nHur ger du återkoppling som driver lärande framåt snarare än att bara betygsätta?\nHur tänker du kring handledning av doktorander kontra kursundervisning — vad är lika, vad är olika?\n\nHållbar lärandemiljö: trygghet att misslyckas, normaliseringen av “felet är en del av kodningen”, öppenhet med egna misstag som lärare."
+    "text": "Interaktivt och studentcentrerat lärande\n\n[Fyll i] Beskriv hur du arbetar med att aktivera studenter och skapa ett lärande som utgår från deras förståelse och erfarenheter.\nLedande frågor:\n\nHur arbetar du med praktiska moment i statistik- och R-undervisning? (t.ex. egna dataset, live-kodning, problemlösning i grupp)\nHur kopplar du teorin (statistisk metod) till praktiken (riktiga forskningsfrågor och data från ditt eget fält — folkhälsa, arbetsvetenskap)?\nHur ger du återkoppling som driver lärande framåt snarare än att bara betygsätta?\nHur tänker du kring handledning av doktorander kontra kursundervisning — vad är lika, vad är olika?\n\nHållbar lärandemiljö: trygghet att misslyckas, normaliseringen av “felet är en del av kodningen”, öppenhet med egna misstag som lärare.",
+    "crumbs": [
+      "Kvalitativ redogörelse"
+    ]
   },
   {
     "objectID": "kvalitativ.html#mångfald-jämställdhet-tillgänglighet-och-likabehandling",
     "href": "kvalitativ.html#mångfald-jämställdhet-tillgänglighet-och-likabehandling",
     "title": "Kvalitativ redogörelse",
     "section": "Mångfald, jämställdhet, tillgänglighet och likabehandling",
-    "text": "Mångfald, jämställdhet, tillgänglighet och likabehandling\n\n[Fyll i] Beskriv hur du arbetar för ett inkluderande klassrum där alla studenter ges likvärdiga förutsättningar att lära sig.\nLedande frågor:\n\nStatistikångest är vanligt — hur möter du studenter som är rädda för siffror och kod?\nHur säkerställer du att undervisningsmaterial är tillgängligt för alla? (t.ex. tydlig struktur, olika typer av förklaringar, tempo)\nR-programmering kan upplevas som en hög tröskel — hur sänker du den?\nHur tänker du kring studenters olika förkunskaper och bakgrunder i en kurs om kvantitativ metod?\nHar du erfarenheter av att anpassa undervisning utifrån studenters specifika behov?\n\nKoppla gärna till GIH:s likabehandlingsplan och Diskrimineringslagen (2008:567)."
+    "text": "Mångfald, jämställdhet, tillgänglighet och likabehandling\n\n[Fyll i] Beskriv hur du arbetar för ett inkluderande klassrum där alla studenter ges likvärdiga förutsättningar att lära sig.\nLedande frågor:\n\nStatistikångest är vanligt — hur möter du studenter som är rädda för siffror och kod?\nHur säkerställer du att undervisningsmaterial är tillgängligt för alla? (t.ex. tydlig struktur, olika typer av förklaringar, tempo)\nR-programmering kan upplevas som en hög tröskel — hur sänker du den?\nHur tänker du kring studenters olika förkunskaper och bakgrunder i en kurs om kvantitativ metod?\nHar du erfarenheter av att anpassa undervisning utifrån studenters specifika behov?\n\nKoppla gärna till GIH:s likabehandlingsplan och Diskrimineringslagen (2008:567).",
+    "crumbs": [
+      "Kvalitativ redogörelse"
+    ]
   },
   {
     "objectID": "dokumentation.html",
     "href": "dokumentation.html",
     "title": "Bevisande dokumentation – Pedagogiskt CV",
     "section": "",
-    "text": "Samlad dokumentation av pedagogisk utbildning, undervisningserfarenhet, handledning, uppdrag och övriga pedagogiska meriter."
+    "text": "Samlad dokumentation av pedagogisk utbildning, undervisningserfarenhet, handledning, uppdrag och övriga pedagogiska meriter.",
+    "crumbs": [
+      "Pedagogiskt CV"
+    ]
   },
   {
     "objectID": "dokumentation.html#pedagogisk-utbildning-och-fortbildning",
     "href": "dokumentation.html#pedagogisk-utbildning-och-fortbildning",
     "title": "Bevisande dokumentation – Pedagogiskt CV",
     "section": "Pedagogisk utbildning och fortbildning",
-    "text": "Pedagogisk utbildning och fortbildning\n\nHögskolepedagogisk utbildning\n\n\n\nKurs\nOmfattning\nStatus\n\n\n\n\nHögskolepedagogisk grundkurs\n7,5 hp\nAvklarad\n\n\nHögskolepedagogisk fortsättningskurs\n7,5 hp\nPågående\n\n\n\n\n\nAnnan pedagogisk utbildning\n\n[Fyll i om tillämpligt] Annan pedagogisk utbildning, t.ex.:\n\nHandledarutbildning för doktorander\nLedarskapsutbildning\nKurser i pedagogik, didaktik, kommunikation"
+    "text": "Pedagogisk utbildning och fortbildning\n\nHögskolepedagogisk utbildning\n\n\n\nKurs\nOmfattning\nStatus\n\n\n\n\nHögskolepedagogisk grundkurs\n7,5 hp\nAvklarad\n\n\nHögskolepedagogisk fortsättningskurs\n7,5 hp\nPågående\n\n\n\n\n\nAnnan pedagogisk utbildning\n\n[Fyll i om tillämpligt] Annan pedagogisk utbildning, t.ex.:\n\nHandledarutbildning för doktorander\nLedarskapsutbildning\nKurser i pedagogik, didaktik, kommunikation",
+    "crumbs": [
+      "Pedagogiskt CV"
+    ]
   },
   {
     "objectID": "dokumentation.html#undervisningserfarenhet",
     "href": "dokumentation.html#undervisningserfarenhet",
     "title": "Bevisande dokumentation – Pedagogiskt CV",
     "section": "Undervisningserfarenhet",
-    "text": "Undervisningserfarenhet\n\nKursansvar\n\n\n\n\n\n\n\n\n\n\n\nPeriod\nKurs\nInstitution\nNivå\nHp\nRoll\n\n\n\n\n2026–\nForskningsmetodik\nGIH\nKandidatnivå\n7,5\nKursansvar + undervisning i kvantitativ metod\n\n\n2025–\nR: från databearbetning till visualisering\nGIH\nAvancerad nivå\n4,5\nKursansvar, huvudlärare\n\n\n\n\n\nÖvrig undervisning\n\n\n\n\n\n\n\n\n\n\nPeriod\nKurs / Moment\nInstitution\nNivå\nRoll\n\n\n\n\n2024–2025\nFördjupad kvantitativ analys\nGIH\nAvancerad nivå\nUndervisning\n\n\n2018–2019\nAnalytical statistics for sports scientists\nGIH\nAvancerad nivå\nUndervisning\n\n\n2018\nSubmaximal cykeltest (Ekblom-Bak- och Åstrandtestet)\nFörsvarshälsan Skaraborgs Regemente\n—\nUndervisning"
+    "text": "Undervisningserfarenhet\n\nKursansvar\n\n\n\n\n\n\n\n\n\n\n\nPeriod\nKurs\nInstitution\nNivå\nHp\nRoll\n\n\n\n\n2026–\nForskningsmetodik\nGIH\nKandidatnivå\n7,5\nKursansvar + undervisning i kvantitativ metod\n\n\n2025–\nR: från databearbetning till visualisering\nGIH\nAvancerad nivå\n4,5\nKursansvar, huvudlärare\n\n\n\n\n\nÖvrig undervisning\n\n\n\n\n\n\n\n\n\n\nPeriod\nKurs / Moment\nInstitution\nNivå\nRoll\n\n\n\n\n2024–2025\nFördjupad kvantitativ analys\nGIH\nAvancerad nivå\nUndervisning\n\n\n2018–2019\nAnalytical statistics for sports scientists\nGIH\nAvancerad nivå\nUndervisning\n\n\n2018\nSubmaximal cykeltest (Ekblom-Bak- och Åstrandtestet)\nFörsvarshälsan Skaraborgs Regemente\n—\nUndervisning",
+    "crumbs": [
+      "Pedagogiskt CV"
+    ]
   },
   {
     "objectID": "dokumentation.html#handledning",
     "href": "dokumentation.html#handledning",
     "title": "Bevisande dokumentation – Pedagogiskt CV",
     "section": "Handledning",
-    "text": "Handledning\n\nDoktorandhandledning\n\nHandledning av 2 doktorander, GIH, 2024–pågående\n\n\n\nHandledning av examensarbeten\n\n[Fyll i] Ange specifika studentarbeten du handlett på olika nivåer, t.ex.:\n\nKandidatexamensarbeten (antal, år, ämne)\nMasterexamensarbeten (antal, år, ämne)\nAnnan handledning"
+    "text": "Handledning\n\nDoktorandhandledning\n\nHandledning av 2 doktorander, GIH, 2024–pågående\n\n\n\nHandledning av examensarbeten\n\n[Fyll i] Ange specifika studentarbeten du handlett på olika nivåer, t.ex.:\n\nKandidatexamensarbeten (antal, år, ämne)\nMasterexamensarbeten (antal, år, ämne)\nAnnan handledning",
+    "crumbs": [
+      "Pedagogiskt CV"
+    ]
   },
   {
     "objectID": "dokumentation.html#pedagogiskt-utvecklingsarbete-och-pedagogiska-uppdrag",
     "href": "dokumentation.html#pedagogiskt-utvecklingsarbete-och-pedagogiska-uppdrag",
     "title": "Bevisande dokumentation – Pedagogiskt CV",
     "section": "Pedagogiskt utvecklingsarbete och pedagogiska uppdrag",
-    "text": "Pedagogiskt utvecklingsarbete och pedagogiska uppdrag\n\n\n\n\n\n\n\n\nUppdrag\nInstitution\nPeriod\n\n\n\n\nKursansvar, Forskningsmetodik (kandidatnivå, 7,5 hp)\nGIH\n2026–\n\n\nKursansvar, R: från databearbetning till visualisering (avancerad, 4,5 hp)\nGIH\n2025–\n\n\nLärarrepresentant i disciplinnämnden\nGIH\n2026–\n\n\nAI-expert och ledamot i AI-gruppen\nGIH\n2026–\n\n\n\n\n[Fyll i om tillämpligt] Specifika pedagogiska utvecklingsuppdrag, t.ex.:\n\nDeltagit i revidering av kursplan eller utbildningsplan\nIntroducerat nya undervisningsformer eller examinationsformer\nPedagogiskt projekt eller rapport"
+    "text": "Pedagogiskt utvecklingsarbete och pedagogiska uppdrag\n\n\n\n\n\n\n\n\nUppdrag\nInstitution\nPeriod\n\n\n\n\nKursansvar, Forskningsmetodik (kandidatnivå, 7,5 hp)\nGIH\n2026–\n\n\nKursansvar, R: från databearbetning till visualisering (avancerad, 4,5 hp)\nGIH\n2025–\n\n\nLärarrepresentant i disciplinnämnden\nGIH\n2026–\n\n\nAI-expert och ledamot i AI-gruppen\nGIH\n2026–\n\n\n\n\n[Fyll i om tillämpligt] Specifika pedagogiska utvecklingsuppdrag, t.ex.:\n\nDeltagit i revidering av kursplan eller utbildningsplan\nIntroducerat nya undervisningsformer eller examinationsformer\nPedagogiskt projekt eller rapport",
+    "crumbs": [
+      "Pedagogiskt CV"
+    ]
   },
   {
     "objectID": "dokumentation.html#utbildningsplanering-och-utbildningsadministration",
     "href": "dokumentation.html#utbildningsplanering-och-utbildningsadministration",
     "title": "Bevisande dokumentation – Pedagogiskt CV",
     "section": "Utbildningsplanering och utbildningsadministration",
-    "text": "Utbildningsplanering och utbildningsadministration\n\n[Fyll i om tillämpligt] T.ex.:\n\nProgramansvar\nExaminatorsansvar (utöver kursansvar ovan)\nDeltagit i antagningskommitté eller urvalsarbete"
+    "text": "Utbildningsplanering och utbildningsadministration\n\n[Fyll i om tillämpligt] T.ex.:\n\nProgramansvar\nExaminatorsansvar (utöver kursansvar ovan)\nDeltagit i antagningskommitté eller urvalsarbete",
+    "crumbs": [
+      "Pedagogiskt CV"
+    ]
   },
   {
     "objectID": "dokumentation.html#övriga-pedagogiska-meriter",
     "href": "dokumentation.html#övriga-pedagogiska-meriter",
     "title": "Bevisande dokumentation – Pedagogiskt CV",
     "section": "Övriga pedagogiska meriter",
-    "text": "Övriga pedagogiska meriter\n\n[Fyll i om tillämpligt] T.ex.:\n\nDeltagande i pedagogiska konferenser (namn, år)\nFramställning av läromedel eller undervisningsmaterial\nPedagogiska utmärkelser eller nomineringar\nIdeellt ledarskap med pedagogisk relevans (t.ex. föreningsliv, mentorskap)"
+    "text": "Övriga pedagogiska meriter\n\n[Fyll i om tillämpligt] T.ex.:\n\nDeltagande i pedagogiska konferenser (namn, år)\nFramställning av läromedel eller undervisningsmaterial\nPedagogiska utmärkelser eller nomineringar\nIdeellt ledarskap med pedagogisk relevans (t.ex. föreningsliv, mentorskap)",
+    "crumbs": [
+      "Pedagogiskt CV"
+    ]
   }
 ]

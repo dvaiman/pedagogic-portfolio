@@ -5,7 +5,19 @@ project:
 website:
   title: "Pedagogisk portfölj"
   navbar:
-    left:
+    background: white
+    foreground: "#2d2d2d"
+    right:
+      - icon: github
+        href: https://github.com/dvaiman
+        aria-label: GitHub
+      - text: "<img src='assets/orcid.svg' height='18' alt='ORCID' style='vertical-align:middle; opacity:0.8;'>"
+        href: https://orcid.org/0000-0002-0958-0094
+        aria-label: ORCID
+  sidebar:
+    style: "docked"
+    background: white
+    contents:
       - text: "Om mig"
         href: index.qmd
       - text: "Ställningstaganden"
@@ -16,13 +28,6 @@ website:
         href: dokumentation.qmd
       - text: "Bilagor"
         href: bilagor.qmd
-    right:
-      - icon: github
-        href: https://github.com/dvaiman
-        aria-label: GitHub
-      - text: "<img src='assets/orcid.svg' height='18' alt='ORCID' style='vertical-align:middle; opacity:0.85;'>"
-        href: https://orcid.org/0000-0002-0958-0094
-        aria-label: ORCID
   page-footer:
     right: "[ORCID 0000-0002-0958-0094](https://orcid.org/0000-0002-0958-0094)"
 
