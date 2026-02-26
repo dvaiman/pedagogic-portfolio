@@ -8,7 +8,7 @@ website:
     left:
       - text: "Om mig"
         href: index.qmd
-      - text: "Pedagogiska ställningstaganden"
+      - text: "Ställningstaganden"
         href: stallningstaganden.qmd
       - text: "Kvalitativ redogörelse"
         href: kvalitativ.qmd
@@ -16,13 +16,20 @@ website:
         href: dokumentation.qmd
       - text: "Bilagor"
         href: bilagor.qmd
+    right:
+      - icon: github
+        href: https://github.com/dvaiman
+        aria-label: GitHub
+      - text: "<img src='assets/orcid.svg' height='18' alt='ORCID' style='vertical-align:middle; opacity:0.85;'>"
+        href: https://orcid.org/0000-0002-0958-0094
+        aria-label: ORCID
   page-footer:
     right: "[ORCID 0000-0002-0958-0094](https://orcid.org/0000-0002-0958-0094)"
 
 format:
   html:
     theme:
-      light: flatly
+      light: lux
       dark: darkly
     css: styles.css
     lang: sv

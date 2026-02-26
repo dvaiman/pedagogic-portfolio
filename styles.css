@@ -1,77 +1,112 @@
 /* ============================================================
    Pedagogisk portfölj – neutral minimal stil
-   Neutralt grå/beige, inget navy, fungerar i flatly + darkly
+   Tema: lux (ljust) / darkly (mörkt)
+   Neutral kol/grå palett, inga turkosa toner
    ============================================================ */
 
-/* Ikoner på startsidan */
-.icon-links {
+/* ---- Turkos/teal-override (darkly använder #00bc8c) ---- */
+a { color: #495057; }
+a:hover { color: #212529; }
+.nav-link { color: inherit !important; }
+
+[data-bs-theme="dark"] a { color: #adb5bd; }
+[data-bs-theme="dark"] a:hover { color: #f8f9fa; }
+[data-bs-theme="dark"] .nav-link { color: inherit !important; }
+
+/* ---- Hero-header på startsidan ---- */
+.hero-header {
+  background: #2d3748;
+  color: #ffffff;
+  padding: 3rem 2.5rem 2.5rem;
+  border-radius: 6px;
+  margin-bottom: 2.5rem;
+}
+
+.hero-header .hero-subtitle {
+  font-size: 1.05rem;
+  color: #a0aec0;
+  margin-top: 0.3rem;
+  margin-bottom: 1.8rem;
+  font-weight: 400;
+  letter-spacing: 0.03em;
+}
+
+.hero-header .hero-icons {
   display: flex;
-  gap: 1rem;
+  gap: 1.1rem;
   align-items: center;
-  margin: 1rem 0 1.5rem 0;
-  font-size: 1.6rem;
 }
-.icon-links a {
-  color: inherit;
-  opacity: 0.65;
-  transition: opacity 0.2s;
-}
-.icon-links a:hover {
-  opacity: 1;
+
+.hero-header .hero-icons a {
+  color: #a0aec0;
+  font-size: 1.55rem;
+  line-height: 1;
+  transition: color 0.18s;
   text-decoration: none;
 }
-.icon-links .orcid-icon svg {
-  width: 1.5rem;
-  height: 1.5rem;
+
+.hero-header .hero-icons a:hover {
+  color: #ffffff;
+}
+
+.hero-header .hero-icons .orcid-svg {
+  width: 1.45rem;
+  height: 1.45rem;
   vertical-align: middle;
   position: relative;
-  top: -2px;
+  top: -1px;
+  opacity: 0.75;
+  transition: opacity 0.18s;
 }
 
-/* Sidrubrik under navbar */
-.page-subtitle {
-  color: #6b7280;
-  font-size: 1.05rem;
-  margin-bottom: 1.5rem;
-  font-weight: 400;
+.hero-header .hero-icons a:hover .orcid-svg {
+  opacity: 1;
 }
 
-/* Placeholder-boxar för innehåll som ska fyllas i */
+/* Mörkt läge: hero är lite ljusare */
+[data-bs-theme="dark"] .hero-header {
+  background: #1a202c;
+}
+
+/* ---- Placeholder-boxar ---- */
 .placeholder {
-  background-color: #f5f5f3;
+  background-color: #f7f7f5;
   border-left: 3px solid #9ca3af;
-  padding: 0.9rem 1.1rem;
+  padding: 0.9rem 1.15rem;
   border-radius: 0 4px 4px 0;
   margin: 1rem 0;
   font-style: italic;
   color: #6b7280;
-  font-size: 0.93rem;
+  font-size: 0.92rem;
 }
 
-/* Mörkt läge: placeholder */
 [data-bs-theme="dark"] .placeholder {
-  background-color: #2d2d2d;
+  background-color: #1f2937;
   border-left-color: #6b7280;
   color: #9ca3af;
 }
 
-/* Tabeller */
-table {
-  width: 100%;
-  font-size: 0.92rem;
-}
+/* ---- Tabeller ---- */
 thead th {
   background-color: #f3f4f6;
   color: #374151;
   font-weight: 600;
 }
+
 [data-bs-theme="dark"] thead th {
   background-color: #374151;
   color: #f3f4f6;
 }
+
 tbody tr:nth-child(even) td {
   background-color: #fafafa;
 }
+
 [data-bs-theme="dark"] tbody tr:nth-child(even) td {
   background-color: #1f2937;
+}
+
+/* ---- Navbar ORCID-ikon ---- */
+.navbar .nav-item a img {
+  vertical-align: middle;
 }
