@@ -1,2 +1,5 @@
 .quarto/
 *.typ
+
+/.quarto/
+**/*.quarto_ipynb

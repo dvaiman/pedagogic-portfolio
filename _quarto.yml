@@ -3,10 +3,8 @@ project:
   output-dir: docs
 
 website:
-  title: "Daniel Väisänen – Pedagogisk portfölj"
+  title: "Pedagogisk portfölj"
   navbar:
-    background: "#1a3a5c"
-    foreground: "white"
     left:
       - text: "Om mig"
         href: index.qmd
@@ -19,12 +17,13 @@ website:
       - text: "Bilagor"
         href: bilagor.qmd
   page-footer:
-    left: "Daniel Väisänen · Gymnasitk- och idrottshögskolan (GIH)"
     right: "[ORCID 0000-0002-0958-0094](https://orcid.org/0000-0002-0958-0094)"
 
 format:
   html:
-    theme: cosmo
+    theme:
+      light: flatly
+      dark: darkly
     css: styles.css
     lang: sv
     toc: true
